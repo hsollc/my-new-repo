@@ -2,7 +2,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>THe changes have been done already, and sustained it by confirming it. It's working on Tomcat server(9.0.65)</h2>
+    <h2> It's working on Tomcat server(9.0.65) but it is very difficult to follow up. I reactivated tomcat.</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
